@@ -1,22 +1,22 @@
-# QR Code Generator 🔗
+# QR Code Generator 
 
 A simple and user-friendly **QR Code Generator** built with Python and Streamlit. This application allows users to generate QR codes from text or URLs and download them as PNG images.
 
-## ✨ Features
+##  Features
 
 - Generate QR codes from text or URLs.
 - Simple and interactive user interface using Streamlit.
 - Download generated QR codes as PNG images.
 - Easy to use and beginner-friendly.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** – Core programming language.
 - **Streamlit** – User interface.
 - **qrcode** – QR code generation.
 - **Pillow (PIL)** – Image processing.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 qr_code_generator/
@@ -27,7 +27,7 @@ qr_code_generator/
 └── .gitignore          # Ignored files
 ```
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to run the project locally.
 
@@ -77,18 +77,18 @@ streamlit run app.py
 
 The application will open in your default browser.
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the QR Code Generator application.
 2. Enter the text or URL you want to convert into a QR code.
 3. Generate your QR code.
 4. Download the generated PNG image.
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 This project was developed to strengthen my Python programming skills and gain practical experience with Python libraries, image generation and building interactive applications using Streamlit.
 
-## 👩‍💻 Author
+##  Author
 
 **Hunaiza Sultan**
 
